@@ -1,16 +1,40 @@
-## Hi there 👋
+<img width="2048" height="768" alt="image" src="https://github.com/user-attachments/assets/90b3167d-0ede-44ba-939f-fe0d0e66d47f" />
 
-<!--
-**ismethp48-glitch/ismethp48-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+¡Hola! 👋 Soy Ismeth Peñaloza
+
+Sobre mí
+
+Soy estudiante de Ingeniería de Sistemas. Me gusta aprender sobre tecnología, programación y descubrir nuevas herramientas. Cada proyecto representa una oportunidad para adquirir conocimientos y mejorar mis habilidades.
+
+Información académica
+
+- Universidad: Universidad de la costa
+- Carrera: Ingeniería de Sistemas
+- Semestre: 4
+
+Mis intereses
+
+- Desarrollo de software.
+- Programación.
+- Inteligencia artificial.
+- Desarrollo web.
+- Nuevas tecnologías.
+
+Gustos y hobbies
+
+- Fútbol.
+- Música.
+- Videojuegos.
+- Aprender cosas nuevas.
+- F1
+
+Mis proyectos
+
+En este espacio compartiré mis proyectos académicos y personales, mostrando lo que voy aprendiendo durante mi formación profesional.
+
+Mis objetivos
+
+Seguir aprendiendo, fortalecer mis conocimientos y adquirir experiencia para convertirme en un buen profesional.
